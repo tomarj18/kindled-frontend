@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+* {
+  font-family: 'Inter', sans-serif;
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Playfair Display', serif;
+}
+
+body {
+  background-color: #FFFDF7;
+  color: #2C1810;
+}
